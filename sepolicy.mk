@@ -32,7 +32,6 @@ BOARD_SEPOLICY_UNION += \
        qmi_ping.te \
        qmi_test_service.te \
        irsc_util.te \
-       netd.te \
        rild.te \
        diag.te \
        diag_test.te \
@@ -85,7 +84,6 @@ BOARD_SEPOLICY_UNION += \
        wcnss_service.te \
        mmi.te \
        dhcp.te \
-       wfd_app.te \
        mediaserver_test.te \
        hbtp.te \
        vold.te
